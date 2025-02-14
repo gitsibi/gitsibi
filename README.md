@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Sibishree M.
 
 🎓 **Education:**  
-I am from Kattumavadi in Pudukkotai District. I completed my schooling at Ideal Matric Higher Secondary School and am currently pursuing a Bachelor of Engineering in the ECE department at Sri Shakthi Institute of Engineering and Technology.
+I am from Kattumavadi in Pudukkotai District. I completed my schooling at Ideal Matric Higher Secondary School and have graduated with a Bachelor of Engineering in the ECE department from Sri Shakthi Institute of Engineering and Technology.
 
 💻 **Interests and Skills:**  
 I am passionate about:
@@ -31,4 +31,3 @@ Apart from coding, I love:
 
 🌟 Let's connect and create something amazing!  
 Feel free to explore my repositories and reach out for collaboration!
-
